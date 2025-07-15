@@ -1,0 +1,11 @@
+libro
+cuaderno
+lapiz
+pizarron
+goma
+zacapuntas
+lapicero
+diccionario
+plumones
+gis
+
