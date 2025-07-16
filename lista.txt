@@ -8,4 +8,5 @@ lapicero
 diccionario
 plumones
 gis
-
+regla
+mochila
